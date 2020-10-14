@@ -58,7 +58,7 @@ namespace Youtube_Downloader
                     }
                     catch
                     {
-                        MessageBox.Show("Failed to decrypt URL");
+                        MessageBox.Show("Une erreur est survenue");
                     }
                     
 
